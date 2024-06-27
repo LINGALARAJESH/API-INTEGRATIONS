@@ -1,0 +1,52 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "productName": "Realme 3 pro",
+      "productID": "RL123",
+      "cost": 14000
+    },
+    {
+      "id": 2,
+      "productName": "Realme 5 pro",
+      "productID": "RL124",
+      "cost": 22000
+    },
+    {
+      "id": 3,
+      "productName": "Realme 7 pro",
+      "productID": "RL125",
+      "cost": 28000
+    },
+    {
+      "id": "727c",
+      "productName": "Realme 10 pro",
+      "productID": "RL12"
+    },
+    {
+      "id": "563e",
+      "productName": "Realme 10 pro",
+      "productID": "RL12"
+    }
+  ],
+  "Customers": [
+    {
+      "name": "Rajesh",
+      "productID": "RL125",
+      "mobile": "934690XXXX",
+      "id": 1
+    },
+    {
+      "name": "Nagesh",
+      "productID": "RL123",
+      "mobile": "984690XXXX",
+      "id": 2
+    },
+    {
+      "name": "Veeraswamy",
+      "productID": "RL124",
+      "mobile": "935690XXXX",
+      "id": 3
+    }
+  ]
+}
